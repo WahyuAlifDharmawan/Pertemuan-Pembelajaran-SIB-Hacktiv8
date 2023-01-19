@@ -1,0 +1,62 @@
+apa itu variabel
+apa pentingnya variabel
+mendeklarasikan variabel
+mengisi variabel dengan nilai atau value
+memberi nama varaibel yang baik
+apa itu tipe data
+berbagai jenis tipe data
+tipe data number dan pengoperasiannya
+tipe data string dan cara memanipulasinya
+tipe data boolean
+dan bagaimana mengetahui tipe data dari sebuah variabel
+apa itu array
+apa itu jenis array
+mengisi array
+
+
+082269837758
+
+1. Variabel adalah bagian yang digunakan untuk menyimpan nilai
+2. Variabel sangat penting karena fungsinya digunakan untuk menyimpan nilai, apa bila tidak ada variabel maka dalam program tidak ada yang akan diolah dan ditampilkan
+3. Untuk mendeklarasikan variabel bisa menggunakan var, let, dan cons. Contohnya: "let mhsName = "Wahyu" "
+4. Untuk mengisi variabel dengan value dapat dilakukan dengan "let mhsName = "Wahyu"
+5. Untuk memberikan nama variabel yang baik dapat menggunakan kata yang mudah dipahami, namun jangan menggunakan Spasi dan simbol yang dapat digunakan hanya "_ dan $"
+6. Tipe data adalah sesuatu yang digunakan dalam pemprograman untuk menklasifikasikan data berdasarkan jenis data tersebut
+7. Tipe data yang dapat digunakan dalam JavaScript adalah "String, Integer, Float, Boolean, Object"
+8. <script>
+   var a = 12;  
+   var b = 4;
+   var c = 2;
+   console.log(a);       // hasil: 12
+   console.log(b);       // hasil: 4
+   console.log(c);       // hasil: 2
+  
+   var d = a + b;
+   console.log(d);       // hasil: 16
+</script>
+9. <script>
+var nama = "Sylvia";
+var situs = 'duniailkom.com';
+var pesan = 'dia berkata:"hello World!"';
+var pesan2 = "Hari ini hari jum'at";
+</script>
+10. <script>
+var a = true;
+var b = false;
+  
+console.log(a.toString()); // true
+console.log(b.toString()); // false
+  
+console.log(a.valueOf()); // true
+console.log(b.valueOf()); // false
+</script>
+11. cara mengetahui perbedaan antara tipe data adalah dengan melihat isi value nya
+12. Array adalah variabel yang mempunyai indeks sehingga dapat menyimpan sejumlah data yang bertipe sama.
+13. Jenis array ada 3, Indexed Arrays, Multidimensional Arrays, Assosciative Arrays
+14. var produk1 = "Modem";
+var produk2 = "Hardisk";
+var produk3 = "Flashdisk";
+
+document.write(`${produk1}<br>`);
+document.write(`${produk2}<br>`);
+document.write(`${produk3}<br>`);
